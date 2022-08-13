@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ameer-developer-profile/static/css/main.fa027e04.css",
-    "main.js": "/ameer-developer-profile/static/js/main.4793a0c5.js",
+    "main.css": "/ameer-developer-profile/static/css/main.1c149871.css",
+    "main.js": "/ameer-developer-profile/static/js/main.19f9c8c4.js",
     "static/js/787.9fea2755.chunk.js": "/ameer-developer-profile/static/js/787.9fea2755.chunk.js",
     "static/media/mali3.jpg": "/ameer-developer-profile/static/media/mali3.89c095c3e44ca91eb4b4.jpg",
     "index.html": "/ameer-developer-profile/index.html",
-    "main.fa027e04.css.map": "/ameer-developer-profile/static/css/main.fa027e04.css.map",
-    "main.4793a0c5.js.map": "/ameer-developer-profile/static/js/main.4793a0c5.js.map",
+    "main.1c149871.css.map": "/ameer-developer-profile/static/css/main.1c149871.css.map",
+    "main.19f9c8c4.js.map": "/ameer-developer-profile/static/js/main.19f9c8c4.js.map",
     "787.9fea2755.chunk.js.map": "/ameer-developer-profile/static/js/787.9fea2755.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fa027e04.css",
-    "static/js/main.4793a0c5.js"
+    "static/css/main.1c149871.css",
+    "static/js/main.19f9c8c4.js"
   ]
 }
